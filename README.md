@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dijitalyogini
 - 👀 I’m interested in marketing and coding
-- 🌱 I’m currently learning frontend web development 
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on IG @dijitalyogini
 - 📫 How to reach me dijitalyogini@gmail.com
 
