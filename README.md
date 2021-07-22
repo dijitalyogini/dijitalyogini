@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dijitalyogini
-- 👀 I’m interested in marketing and coding
-- 🌱 I’m currently learning data science 
+- 👋 Hi, I’m @irembezci
+- 👀 I’m interested in marketing, coding and holistic living
+- 🌱 I’m currently learning data science and teaching yin yoga
 - 💞️ I’m looking to collaborate on IG @dijitalyogini
 - 📫 How to reach me dijitalyogini@gmail.com
 
